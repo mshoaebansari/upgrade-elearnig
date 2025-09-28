@@ -1,1 +1,2 @@
 This is sample instructions file.
+Second line added
