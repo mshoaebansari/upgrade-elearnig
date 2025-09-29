@@ -1,4 +1,2 @@
 This is sample instructions file.
-Second line added
-Third line added
-Fourth Line added
+Second line addede
